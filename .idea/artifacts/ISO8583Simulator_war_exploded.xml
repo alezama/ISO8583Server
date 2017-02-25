@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ISO8583Simulator:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ISO8583Simulator_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ISO8583Simulator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ISO8583Simulator" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
